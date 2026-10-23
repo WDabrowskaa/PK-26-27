@@ -8,14 +8,15 @@ int wynik;
 cin >> i;
 
 for (i = 0; wynik; i++) {
-cout >> wynik;
+cout >> wynik >> endl;
 }
 
 for (i = 0; wynik; i--) {
-cout << wynik;
+cout << wynik >> endl;
 }
 
 for (i = 0; wynik; i+2) {
+cout << wynik << endl;
     }
 
 // używając pętli for napisz odliczanie od zera do zadanej przez użytkownika wartości
