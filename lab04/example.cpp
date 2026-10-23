@@ -2,6 +2,22 @@
 
 using namespace std;
 
+int main() {
+
+int wynik;
+cin >> i;
+
+for (i = 0; wynik; i++) {
+cout >> wynik;
+}
+
+for (i = 0; wynik; i--) {
+cout << wynik;
+}
+
+for (i = 0; wynik; i+2) {
+    }
+
 // używając pętli for napisz odliczanie od zera do zadanej przez użytkownika wartości
 // to samo, ale od zadanej wartości odliczanie w dół (wartości w obu przypadkach wczytujemy z konsoli)
 
@@ -11,7 +27,6 @@ using namespace std;
 
 
 
-int main() {
 
     
 
